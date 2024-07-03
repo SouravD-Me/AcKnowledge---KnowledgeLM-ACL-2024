@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Welcome to the repository for **AcKnowledge**, a groundbreaking framework designed to address the limitations of large language models (LLMs) in open-domain question-answering (QA) tasks. This project has been accepted at the ACL 2024 Workshop on Towards Knowledgeable Language Models.
+Welcome to the repository for **AcKnowledge**, a framework designed to address the limitations of large language models (LLMs) in open-domain question-answering (QA) tasks. This work has been accepted at the ACL 2024 Workshop on Towards Knowledgeable Language Models.
 
 AcKnowledge introduces a novel approach to knowledge representation using a small, non-pre-trained language model (SLM) that dynamically acquires and represents knowledge from the internet, bypassing the need for extensive pre-training. The framework leverages meta-learning and user feedback to ensure the accuracy and relevance of the information provided.
 
