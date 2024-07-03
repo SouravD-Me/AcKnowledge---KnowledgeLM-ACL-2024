@@ -73,13 +73,13 @@ To use AcKnowledge, follow these steps (once the code is available):
 We welcome contributions from the community! Please follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push the branch to your fork.
 4. Open a pull request detailing your changes.
 
 ## Acknowledgments
 
-This research was conducted at the Indian Institution of Information Technology Kalyani. We thank our colleagues and the reviewers for their valuable feedback and support.
+We thank the reviewers for their valuable feedback and motivation.
 
 ## Contact
 
