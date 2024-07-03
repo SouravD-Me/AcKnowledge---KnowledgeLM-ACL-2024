@@ -50,7 +50,7 @@ Extensive benchmarking against similar language models in open-domain QA tasks d
 
 ## Usage
 
-**Note**: <em>The source code is currently not available as we are addressing the reviewers' comments to modify the work. The source code will be added very soon. Please keep an eye on this space for updates. Feel free to fork the repository and watch for new releases.
+**Note**: <em>The source code is currently not available as we are addressing the reviewers' comments to modify the work. The source code will be added very soon. Please keep an eye on this space for updates. Feel free to fork the repository and watch for new releases</em>.
 
 To use AcKnowledge, follow these steps (once the code is available):
 
