@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Fundamental illustration of AcKnowledge: Representing acquired knowledge through user questions and feedback.](./AcKnowledge at a Glance.png)
+![Fundamental illustration of AcKnowledge: Representing acquired knowledge through user questions and feedback.](https://github.com/SouravD-Me/AcKnowledge---KnowledgeLM-ACL-2024/blob/main/AcKnowledge%20at%20a%20Glance.png)
 
 ## Table of Contents
 
